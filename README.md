@@ -5,9 +5,10 @@ Statistical Learning Theory Working Group
 
 This will be the webpage for the Statistical Learning Theory working group. Updates will be posted here as and when they come. 
 
-| Time     	| Wednesdays 2:00 - 3:00 PM 	|
-|----------	|---------------------------	|
-| Location 	| Thomas 327                	|
+| Time     	    | Wednesdays 2:00 - 3:00 PM 	|
+|----------	    |---------------------------	|
+| **Location** 	| **Thomas 327**               	|
+
 
 Members
 ----
@@ -20,6 +21,18 @@ Members
 	* Omar Hagrass
 	* Siddharth Vishwanath
 	* Tianhong Sheng
+
+Schedule
+----
+
+The schedule is also available on the [STAG Google Calendar](https://calendar.google.com/calendar?cid=dDNqbXA3MWcyZ2Uya241NGtoN2FmbDM1dWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+| Date     	    | Speaker     | Topic          |
+|----------	    |----------   |----------------|
+| Aug 28, 2019 	|     XXX     | **Thomas 327** |
+| Sep  4, 2019 	|     XXX     | **Thomas 327** |
+| Sep 11, 2019 	|     XXX     | **Thomas 327** |
+| Sep 18, 2019 	|     XXX     | **Thomas 327** |
 
 
 THis is some experimental math equations $$y = mx + c$$
