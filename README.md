@@ -19,8 +19,8 @@ Members
 	* [Nicholas Sterge](https://stat.psu.edu/people/nzs5368)
 	* [Nikolas Siapoutis](https://stat.psu.edu/people/nzs30)
 	* [Omar Hagrass](https://stat.psu.edu/people/oih3)
-	* [Siddharth Vishwanath](http://www.personal.psu.edu/txs514/)
-	* [Tianhong Sheng](https://sidv23.github.io/)
+	* [Siddharth Vishwanath](https://sidv23.github.io/)
+	* [Tianhong Sheng](http://www.personal.psu.edu/txs514/)
 
 Schedule
 ----
