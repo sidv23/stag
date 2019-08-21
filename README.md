@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+Statistical Learning Theory Working Group
+====
+
+![](stag.png)
+
+This will be the webpage for the Statistical Learning Theory working group. Updates will be posted here as and when they come. 
 
 You can use the [editor on GitHub](https://github.com/sidv23/stag/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
