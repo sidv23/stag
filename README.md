@@ -5,9 +5,9 @@ Statistical Learning Theory Working Group
 
 This will be the webpage for the Statistical Learning Theory working group. Updates will be posted here as and when they come. 
 
-| Time     	    | Wednesdays 2:00 - 3:00 PM 	|
-|----------	    |---------------------------	|
-| **Location** 	| **Thomas 327**               	|
+| <span style="color: green"> Time </span>     	    | Wednesdays 2:00 - 3:00 PM 	    |
+|----------	                                        |---------------------------	    |
+| <span style="color: green"> **Location** </span>  | **Thomas 327**               	|
 
 
 Members
