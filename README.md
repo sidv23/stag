@@ -17,8 +17,8 @@ Members
 * *Students*
 	* Nicholas Sterge
 	* Nikolas Siapoutis
+	* Omar Hagrass
 	* Siddharth Vishwanath
 	* Tianhong Sheng
-	* Omar Hagrass
 
 
