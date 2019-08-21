@@ -22,3 +22,8 @@ Members
 	* Tianhong Sheng
 
 
+THis is some experimental math equations $$y = mx + c$$
+
+and more math stuff $$ \int_0^\infty f(x)dx = 1 $$
+
+
