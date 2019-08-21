@@ -29,7 +29,7 @@ The schedule is also available on the [STAG Google Calendar](https://calendar.go
 
 | Date     	    | Speaker     | Topic          |
 |----------	    |----------   |----------------|
-| Aug 28, 2019 	|     XXX     | GANs :         |
+| Aug 28, 2019 	|     XXX     | Generative Adversarial Networks         |
 | | | [Foundations](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [Theory](https://arxiv.org/abs/1803.07819)  |
 | Sep  4, 2019 	|     XXX     | Convolutional Neural Networks            |
 | Sep 11, 2019 	|     XXX     | Recurrent Neural Networks                |
