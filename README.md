@@ -35,8 +35,8 @@ The schedule is also available on the [STAG Google Calendar](https://calendar.go
 | Sep 18, 2019 	|     XXX     |  Wasserstein GANS                        |
 
 
-THis is some experimental math equations $$y = mx + c$$
+Contact
+----
 
-and more math stuff $$ \int_0^\infty f(x)dx = 1 $$
-
+If you're interested in attending the meetings, please [sign-up here](https://forms.gle/xFZGmoPqh75gaj4X6) to be on the mailing list.
 
