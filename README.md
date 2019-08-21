@@ -13,14 +13,14 @@ This will be the webpage for the Statistical Learning Theory working group. Upda
 Members
 ----
 * *Faculty*
-	* Dr. Bharath Sriperumbudur
+	* [Dr. Bharath Sriperumbudur](http://personal.psu.edu/bks18/)
 
 * *Students*
-	* Nicholas Sterge
-	* Nikolas Siapoutis
-	* Omar Hagrass
-	* Siddharth Vishwanath
-	* Tianhong Sheng
+	* [Nicholas Sterge](https://stat.psu.edu/people/nzs5368)
+	* [Nikolas Siapoutis](https://stat.psu.edu/people/nzs30)
+	* [Omar Hagrass](https://stat.psu.edu/people/oih3)
+	* [Siddharth Vishwanath](http://www.personal.psu.edu/txs514/)
+	* [Tianhong Sheng](https://sidv23.github.io/)
 
 Schedule
 ----
@@ -29,10 +29,11 @@ The schedule is also available on the [STAG Google Calendar](https://calendar.go
 
 | Date     	    | Speaker     | Topic          |
 |----------	    |----------   |----------------|
-| Aug 28, 2019 	|     XXX     | Generative Adversarial Networks : [Foundations](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) [Theoretical Properties](https://arxiv.org/abs/1803.07819)  |
+| Aug 28, 2019 	|     XXX     | GANs : 
+[Foundations](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [Theory](https://arxiv.org/abs/1803.07819)  |
 | Sep  4, 2019 	|     XXX     | Convolutional Neural Networks            |
 | Sep 11, 2019 	|     XXX     | Recurrent Neural Networks                |
-| Sep 18, 2019 	|     XXX     |  Wasserstein GANS                        |
+| Sep 18, 2019 	|     XXX     |  Wasserstein GANs                        |
 
 
 Contact
