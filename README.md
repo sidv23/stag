@@ -32,7 +32,7 @@ The schedule is available on the [STAG Google Calendar](https://calendar.google.
 <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%237CB342&amp;ctz=America%2FNew_York&amp;src=dDNqbXA3MWcyZ2Uya241NGtoN2FmbDM1dWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%238E24AA&amp;showTitle=0&amp;showNav=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;mode=AGENDA" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 
 
-Topics:
+Topics
 ----
 
 | Date     	    | Speaker     | Topic          |
