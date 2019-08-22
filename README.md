@@ -3,9 +3,7 @@ Statistical Learning Theory Working Group
 
 ![](stag.png)
 
-<div class=text-justify>
 The Statistical Learning Theory working group will meet on Mondays. We will have readings, presentations and discussions on topics including (but, not limited to) statistical learning theory, nonparametric estimation and inference, deep learning, functional data analysis, topological data analysis and algebraic statistics. The focus of the group is to read and discuss important papers in one particular topic of interest for a semester or two.
-</div>
 
 
 | <span style="color: red"> Time </span>     	    | Mondays 2:30 - 4:00 PM 	    |
