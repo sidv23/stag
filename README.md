@@ -48,5 +48,5 @@ Topics
 Contact
 ----
 
-If you're interested in attending the meetings, please [sign-up here](https://forms.gle/xFZGmoPqh75gaj4X6) to be on the mailing list.
+If you're interested in attending the meetings, please [sign-up here](https://forms.gle/xFZGmoPqh75gaj4X6), and send an email to the [L-STAT-STAG](mailto:l-stat-stag-subscribe-request@lists.psu.edu) with the subject "Add Me" and include your name and department in the body. 
 
