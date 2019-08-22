@@ -35,6 +35,7 @@ The schedule is also available on the [STAG Google Calendar](https://calendar.go
 | Sep 11, 2019 	|     XXX     | Recurrent Neural Networks                |
 | Sep 18, 2019 	|     XXX     |  Wasserstein GANs                        |
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=dDNqbXA3MWcyZ2Uya241NGtoN2FmbDM1dWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%238E24AA" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 Contact
 ----
