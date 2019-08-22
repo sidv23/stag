@@ -47,8 +47,6 @@ Topics
 
 Contact
 ----
-<div class=text-justify>
 
 If you're interested in attending the meetings, please [sign-up here](https://forms.gle/xFZGmoPqh75gaj4X6) to be on the mailing list.
-</div>
 
