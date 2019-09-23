@@ -39,8 +39,8 @@ Topics
 | Date     	    | Speaker     | Topic          | References |
 |-------------- |----------   |----------------| ---------- |
 | Sep  9, 2019 	|     Bharath Sriperumbudur     | Approximation with Deep ReLU Networks   | [Error Bounds](https://arxiv.org/abs/1610.01145)  |
-| Sep  16, 2019 	|     Bharath Sriperumbudur     | [Optimal Approximations](https://arxiv.org/abs/1802.03620)  |
-| Sep  23, 2019 	|     Efren Cruz Cortés     | [Universal Approximation](https://arxiv.org/abs/1708.02691)  |
+| Sep  16, 2019 	|     Bharath Sriperumbudur     | Approximation with Deep ReLU Networks  | [Optimal Approximations](https://arxiv.org/abs/1802.03620)  |
+| Sep  23, 2019 	|     Efren Cruz Cortés     | Approximation with Deep ReLU Networks  | [Universal Approximation](https://arxiv.org/abs/1708.02691)  |
 
 Contact
 ----
