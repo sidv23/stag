@@ -44,13 +44,13 @@ Topics
 | Sep  30, 2019 	|     Efren Cruz Cortés     | Approximation Bounds  | [Hanin, 2017](https://arxiv.org/abs/1708.02691)  |
 | Oct  7, 2019 	|     Tianhong Seng     | Approximation Bounds  | [Lu et al, 2017](https://arxiv.org/abs/1708.02691)  |
 | Oct  14, 2019 	|     TBD     | Approximation Bounds  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
-| Oct  21, 2019 	|     TBD     | Approximation Bounds  | [Mhaskar et al, 2016a](/Approximation/Mhaskar-1.pdf),[Mhaskar et al, 2016b](/Approximation/Mhaskar-2.pdf), [Mhaskar et al, 2017](/Approximation/Mhaskar-3.pdf)  |
-| Oct  28, 2019 	|     TBD     | Approximation Bounds  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
-| Nov  4, 2019 	|     TBD     | Approximation Bounds  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
-| Nov  11, 2019 	|     TBD     | Generalization Bounds  | [Peterson et al, 2017](/Generalization/Peterson17arXiv.pdf)  |
-| Nov  14, 2019 	|     TBD     | Generalization Bounds  | [Peterson et al, 2017](/Generalization/Peterson17arXiv.pdf)  |
-| Oct  14, 2019 	|     TBD     | Generalization Bounds  | [Peterson et al, 2017](/Generalization/Peterson17arXiv.pdf)  |
-| Oct  14, 2019 	|     TBD     | Generalization Bounds  | [Peterson et al, 2017](/Generalization/Peterson17arXiv.pdf)  |
+| Oct  21, 2019 	|     Bharath & TBD     | Approximation Bounds  | [Mhaskar et al, 2016a](/Approximation/Mhaskar-1.pdf),[Mhaskar et al, 2016b](/Approximation/Mhaskar-2.pdf), [Mhaskar et al, 2017](/Approximation/Mhaskar-3.pdf)  |
+| Oct  28, 2019 	|     TBD     | Approximation Bounds  | [Liang & Srikant, 2017](/Approximation/Liang-Srikant-ICLR.pdf)  |
+| Nov  4, 2019 	|     Bharath & TBD     | Approximation Bounds  | [Zhou, 2018](/Approximation/Ding-xuan-cnn-18.pdf)  |
+| Nov  11, 2019 	|     TBD     | Generalization Bounds  | [Zhang et al, 2017](/Generalization/Recht.pdf)  |
+| Nov  14, 2019 	|     TBD     | Generalization Bounds  | [Bartlett et al, 2017](/Generalization/Bartlett2017full.pdf)  |
+| Oct  14, 2019 	|     Bharath Sriperumbudur     | Generalization Bounds  | [Imaizumi & Fukumizu, 2018](/Generalization/Kenji.pdf)  |
+| Oct  14, 2019 	|     Bharath Sriperumbudur     | Generalization Bounds  | [Suzuki, 2019](/Generalization/Peterson17arXiv.pdf)  |
 
 Contact
 ----
