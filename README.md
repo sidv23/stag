@@ -40,17 +40,20 @@ Topics
 |-------------- |----------   |----------------| ---------- |
 | Sep  9, 2019 	|     Bharath Sriperumbudur     | Introduction to Neural Networks   | [Yarotsky, 2017](https://arxiv.org/abs/1610.01145)  |
 | Sep  16, 2019 	|     Bharath Sriperumbudur     | Error Bounds  | [Yarotsky, 2018](https://arxiv.org/abs/1802.03620)  |
-| Sep  23, 2019 	|     Bharath Sriperumbudur     | Optimal Approximations  | [Yarotsky, 2018](https://arxiv.org/abs/1802.03620)  |
-| Sep  30, 2019 	|     Efren Cruz Cortés     | Optimal Approximations  | [Hanin, 2017](https://arxiv.org/abs/1708.02691)  |
-| Oct  7, 2019 	|     Tianhong Seng     | Optimal Approximations  | [Lu et al, 2017](https://arxiv.org/abs/1708.02691)  |
-| Oct  14, 2019 	|     TBD     | Optimal Approximations  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
-| Oct  14, 2019 	|     TBD     | Optimal Approximations  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
-| Oct  14, 2019 	|     TBD     | Optimal Approximations  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
-| Oct  14, 2019 	|     TBD     | Optimal Approximations  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
-| Oct  14, 2019 	|     TBD     | Optimal Approximations  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
-| Oct  14, 2019 	|     TBD     | Optimal Approximations  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
-| Oct  14, 2019 	|     TBD     | Optimal Approximations  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
-| Oct  14, 2019 	|     TBD     | Optimal Approximations  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
+| Sep  23, 2019 	|     Bharath Sriperumbudur     | Approximation Bounds  | [Yarotsky, 2018](https://arxiv.org/abs/1802.03620)  |
+| Sep  30, 2019 	|     Efren Cruz Cortés     | Approximation Bounds  | [Hanin, 2017](https://arxiv.org/abs/1708.02691)  |
+| Oct  7, 2019 	|     Tianhong Seng     | Approximation Bounds  | [Lu et al, 2017](https://arxiv.org/abs/1708.02691)  |
+| Oct  14, 2019 	|     TBD     | Approximation Bounds  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
+| Oct  21, 2019 	|     TBD     | Approximation Bounds  |
+[Mhaskar et al, 2016a](/Approximation/Mhaskar-1.pdf),
+[Mhaskar et al, 2016b](/Approximation/Mhaskar-2.pdf)
+[Mhaskar et al, 2017](/Approximation/Mhaskar-3.pdf)  |
+| Oct  28, 2019 	|     TBD     | Approximation Bounds  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
+| Nov  4, 2019 	|     TBD     | Approximation Bounds  | [Peterson et al, 2017](/Approximation/Peterson17arXiv.pdf)  |
+| Nov  11, 2019 	|     TBD     | Generalization Bounds  | [Peterson et al, 2017](/Generalization/Peterson17arXiv.pdf)  |
+| Nov  14, 2019 	|     TBD     | Generalization Bounds  | [Peterson et al, 2017](/Generalization/Peterson17arXiv.pdf)  |
+| Oct  14, 2019 	|     TBD     | Generalization Bounds  | [Peterson et al, 2017](/Generalization/Peterson17arXiv.pdf)  |
+| Oct  14, 2019 	|     TBD     | Generalization Bounds  | [Peterson et al, 2017](/Generalization/Peterson17arXiv.pdf)  |
 
 Contact
 ----
