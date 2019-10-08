@@ -38,9 +38,12 @@ Topics
 
 | Date     	    | Speaker     | Topic          | References |
 |-------------- |----------   |----------------| ---------- |
-| Sep  9, 2019 	|     Bharath Sriperumbudur     | Approximation with Deep ReLU Networks   | [Error Bounds](https://arxiv.org/abs/1610.01145)  |
-| Sep  16, 2019 	|     Bharath Sriperumbudur     | Approximation with Deep ReLU Networks  | [Optimal Approximations](https://arxiv.org/abs/1802.03620)  |
-| Sep  23, 2019 	|     Efren Cruz Cortés     | Approximation with Deep ReLU Networks  | [Universal Approximation](https://arxiv.org/abs/1708.02691)  |
+| Sep  9, 2019 	|     Bharath Sriperumbudur     | Introduction to Neural Networks   | [Yarotsky, 2017](https://arxiv.org/abs/1610.01145)  |
+| Sep  16, 2019 	|     Bharath Sriperumbudur     | Approximation with Deep ReLU Networks  | [Yarotsky, 2018](https://arxiv.org/abs/1802.03620)  |
+| Sep  23, 2019 	|     Bharath Sriperumbudur     | Approximation with Deep ReLU Networks  | [Yarotsky, 2018](https://arxiv.org/abs/1802.03620)  |
+| Sep  30, 2019 	|     Efren Cruz Cortés     | Approximation with Bounded Width ReLU Networks  | [Hanin, 2017](https://arxiv.org/abs/1708.02691)  |
+| Oct  7, 2019 	|     Tianhong Seng     | Approximation with Bounded Width ReLU Networks  | [Lu et al., 2017](https://arxiv.org/abs/1708.02691)  |
+| Oct  14, 2019 	|     TBD     | Approximation with Bounded Width ReLU Networks  | [Lu et al., 2017](/Approximation/Peterson17arXiv.pdf)  |
 
 Contact
 ----
