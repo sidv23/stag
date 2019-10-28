@@ -50,7 +50,7 @@ Topics
 | Nov  11, 2019 	|     Nicholas Sterge     | Generalization Bounds  | [Zhang et al, 2017](/Generalization/Recht.pdf)  |
 | Nov  18, 2019 	|     Siddharth Vishwanath     | Generalization Bounds  | [Bartlett et al, 2017](/Generalization/Bartlett2017full.pdf)  |
 | Dec  2, 2019 	|     Bharath Sriperumbudur     | Generalization Bounds  | [Imaizumi & Fukumizu, 2018](/Generalization/Kenji.pdf)  |
-| Dec  9, 2019 	|     Bharath Sriperumbudur     | Generalization Bounds  | [Suzuki, 2019](/Taiji-besov.pdf)  |
+| Dec  9, 2019 	|     Bharath Sriperumbudur     | Generalization Bounds  | [Suzuki, 2019](/Generalization/Taiji-besov.pdf)  |
 
 Contact
 ----
