@@ -51,7 +51,7 @@ Topics
 | Nov  18, 2019 	|     Siddharth Vishwanath     | Generalization Bounds  | [Bartlett et al, 2017](/Generalization/Bartlett2017full.pdf)  |
 | Dec  2, 2019 	|     Bharath Sriperumbudur     | Generalization Bounds  | [Imaizumi & Fukumizu, 2018](/Generalization/Kenji.pdf)  |
 | Dec  9, 2019 	|     Bharath Sriperumbudur     | Generalization Bounds  | [Suzuki, 2019](/Generalization/Taiji-besov.pdf)  |
-| Feb  19, 2020 	|     Omar Hagrass     | Stein Variational Gradient Descent  | [Liu et. al., 2016](/Stein/liu-2017.pdf)  |
+| Feb  19, 2020 	|     Omar Hagrass     | Stein Variational Gradient Descent  | [Liu & Wang, 2016](/Stein/liu-2017.pdf)  |
 
 Contact
 ----
